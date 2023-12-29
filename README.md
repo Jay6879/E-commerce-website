@@ -5,10 +5,15 @@ This is a simple e-commerce website built with the MERN (MongoDB, Express.js, Re
 
 Features
 Product Listings: Explore available products with details.
+
 Product Details: View specifications and customer reviews.
+
 Shopping Cart: Add, manage, and remove items.
+
 User Authentication: Register, log in, and enjoy a personalized experience.
+
 User Dashboard: View order history and manage account details.
+
 Checkout Process: Securely complete purchases.
 
 
