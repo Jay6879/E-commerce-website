@@ -1,4 +1,6 @@
 E-Commerce MERN Stack
+
+
 This is a simple e-commerce website built with the MERN (MongoDB, Express.js, React.js, Node.js) stack. It provides essential features for online shopping:
 
 Features
@@ -8,7 +10,10 @@ Shopping Cart: Add, manage, and remove items.
 User Authentication: Register, log in, and enjoy a personalized experience.
 User Dashboard: View order history and manage account details.
 Checkout Process: Securely complete purchases.
+
+
 Installation
+
 Clone the repository:
 
 bash
